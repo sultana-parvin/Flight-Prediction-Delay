@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 pandas==1.5.0
 numpy==1.24.0
+=======
+pandas==1.3.5
+numpy==1.21.0
+>>>>>>> 6ec199177140957d24516775ba23cae0880d1f87
 scikit-learn==0.24.2
 streamlit==1.8.1
 joblib==1.0.1
